@@ -2,7 +2,7 @@ CoreField -- Golang后端开发工程师进阶之路
 
 CoreField是一个golang后端项目的示例工程，通过搭建一个大模型后端接口调用的平台，来帮助开发者深入认识大型系统开发过程中，可能会涉及到的一些系统开发解决方案，主要包括以下几类：
 
-* 语义化版本
+* [语义化版本规范](./docs/semantic_versions.md)
 * git协作
 * 容器化部署
 
@@ -31,4 +31,7 @@ CoreField是一个golang后端项目的示例工程，通过搭建一个大模�
 
 https://goframe.org/docs/core
 
+https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
+
+这个sample中，大模型api我们选择了智谱AI： https://bigmodel.cn/dev/api/normal-model/glm-4#overview
 
