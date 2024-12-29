@@ -1,9 +1,23 @@
-CoreField -- Golang后端开发工程师进阶之路
+# CornField
+> Golang后端开发工程师进阶之路
+
 
 CoreField是一个golang后端项目的示例工程，通过搭建一个大模型后端接口调用的平台，来帮助开发者深入认识大型系统开发过程中，可能会涉及到的一些系统开发解决方案，主要包括以下几类：
 
+### 规范类
+
 * [语义化版本规范](./docs/semantic_versions.md)
+* [git提交信息](./docs/git_commit_message.md)
 * git协作
+* golang代码规范
+* 贡献规范
+
+### 测试类
+
+### 分布式
+
+### 服务治理
+
 * 容器化部署
 
 * 多级缓存
